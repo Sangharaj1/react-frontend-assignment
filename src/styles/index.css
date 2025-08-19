@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+@import 'pretendard/dist/web/static/pretendard.css';
+
+@layer base {
+  body {
+@apply bg-white text-black; /* Updated to use text-black */
+    font-family: 'Pretendard', system-ui, sans-serif;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
