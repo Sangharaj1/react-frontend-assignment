@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Frontend Assignment
 
 ## Overview
@@ -85,3 +86,7 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 ## License
 This project is licensed under the MIT License.
+=======
+# react-frontend-assignment
+React Frontend Development Assignment 
+>>>>>>> 8b6b85dec5109f6a8383df65c0c7647c3b45e2e5
