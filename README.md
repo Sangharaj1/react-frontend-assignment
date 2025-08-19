@@ -81,8 +81,7 @@ src/
 - Create reusable components for basic HTML elements.
 - Document all assumptions and decisions in this README.
 
-## Contributing
-Contributions are welcome! 
+@sangharajsasane 
 
 
 
