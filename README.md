@@ -82,10 +82,10 @@ src/
 - Document all assumptions and decisions in this README.
 
 ## Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
+Contributions are welcome! 
 
-## License
-This project is licensed under the MIT License.
+
+
 =======
 # react-frontend-assignment
 React Frontend Development Assignment 
